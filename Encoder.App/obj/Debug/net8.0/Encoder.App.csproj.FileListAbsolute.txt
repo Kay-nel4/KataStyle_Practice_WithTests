@@ -1,0 +1,14 @@
+C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\obj\Debug\net8.0\Encoder.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\obj\Debug\net8.0\Encoder.App.AssemblyInfoInputs.cache
+C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\obj\Debug\net8.0\Encoder.App.AssemblyInfo.cs
+C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\obj\Debug\net8.0\Encoder.App.csproj.CoreCompileInputs.cache
+C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\bin\Debug\net8.0\Encoder.App.exe
+C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\bin\Debug\net8.0\Encoder.App.deps.json
+C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\bin\Debug\net8.0\Encoder.App.runtimeconfig.json
+C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\bin\Debug\net8.0\Encoder.App.dll
+C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\bin\Debug\net8.0\Encoder.App.pdb
+C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\obj\Debug\net8.0\Encoder.App.dll
+C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\obj\Debug\net8.0\refint\Encoder.App.dll
+C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\obj\Debug\net8.0\Encoder.App.pdb
+C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\obj\Debug\net8.0\Encoder.App.genruntimeconfig.cache
+C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\obj\Debug\net8.0\ref\Encoder.App.dll
