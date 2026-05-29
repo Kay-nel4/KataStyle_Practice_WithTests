@@ -12,3 +12,4 @@ C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\obj\Debug\net8.0\refint\Encoder
 C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\obj\Debug\net8.0\Encoder.App.pdb
 C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\obj\Debug\net8.0\Encoder.App.genruntimeconfig.cache
 C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\obj\Debug\net8.0\ref\Encoder.App.dll
+C:\Users\kayne\Desktop\repos\Encoder\Encoder.App\obj\Debug\net8.0\Encoder.App.sourcelink.json
