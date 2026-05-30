@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Encoder.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a80a67b138982cfc2cc87beccac98722cf71c2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01314c3ded857ba8fd9c35e3dc06eed4bdd3c46d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Encoder.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Encoder.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
