@@ -28,3 +28,7 @@ else
 {
     Console.WriteLine($"Found at index: {index}");
 }
+//----TwoSum----
+//  Console.WriteLine("----TwoSum----");
+//  Thread.Sleep(4000);
+//  Console.WriteLine

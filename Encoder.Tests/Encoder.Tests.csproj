@@ -24,4 +24,5 @@
     <ProjectReference Include="..\Encoder.App\Encoder.App.csproj" />
   </ItemGroup>
 
+
 </Project>
