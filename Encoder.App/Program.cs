@@ -47,4 +47,4 @@ else
 else
 {
     Console.WriteLine($"Indices found: {i} and {j} (values {nums[i]} + {nums[j]})");
-}
+} 
